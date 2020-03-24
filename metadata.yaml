@@ -1,0 +1,36 @@
+_repo: Early-Voyages-and-Travels-in-the-Levant-IThe-Diary-of-Master-Thomas-Dallam-1599-1600-IIExtrac__61660
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dallam, Thomas
+    gutenberg_agent_id: '51549'
+    url: http://www.gutenberg.org/2009/agents/51549
+  - agent_name: Covel, John
+    gutenberg_agent_id: '51548'
+    url: http://www.gutenberg.org/2009/agents/51548
+  editor:
+    agent_name: Bent, J. Theodore (James Theodore)
+    aliases:
+    - Bent, James Theodore
+    - Bent, Theodore
+    birthdate: 1852
+    deathdate: 1897
+    gutenberg_agent_id: '24790'
+    url: http://www.gutenberg.org/2009/agents/24790
+description: ''
+gutenberg_issued: '2020-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Early Voyages and Travels in the Levant
+
+  I.—The Diary of Master Thomas Dallam, 1599-1600. II.—Extracts from the Diaries of
+  Dr. John Covel, 1670-1679. With Some Account of the Levant Company of Turkey Merchants.
+  The Hakluyt Society, First Series, No. 87.'
+url: http://www.gutenberg.org/ebooks/61660
