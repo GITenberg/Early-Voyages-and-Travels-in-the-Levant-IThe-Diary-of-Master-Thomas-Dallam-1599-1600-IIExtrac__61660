@@ -1,5 +1,8 @@
 _repo: Early-Voyages-and-Travels-in-the-Levant-IThe-Diary-of-Master-Thomas-Dallam-1599-1600-IIExtrac__61660
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61660-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dallam, Thomas
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '24790'
     url: http://www.gutenberg.org/2009/agents/24790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61660#Early-Voyages-and-Travels-in-the-Levant-IThe-Diary-of-Master-Thomas-Dallam-1599-1600-IIExtrac_
 gutenberg_issued: '2020-03-23'
 gutenberg_type: Text
 identifiers:
